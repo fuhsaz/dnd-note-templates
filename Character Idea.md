@@ -1,5 +1,3 @@
-## Name
-
 ## Description
 
 ## Class
