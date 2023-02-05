@@ -1,0 +1,7 @@
+## Description
+
+## Abilities
+
+## Weaknesses
+
+## Resistances
